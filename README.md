@@ -2,8 +2,8 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/vitor-luiz-lima-demenighi"><img align="left" alt="Vitor's LinkedIn" width="22px" src="https://www.brandeps.com/icon-download/L/Linkedin-icon-vector-03.svg" /></a>
-<a href="mailto:vitor_m2@hotmail.com"> <img align="left" alt="My e-mail" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/888/888853.svg" /></a>
-<a href="https://open.spotify.com/user/12176646726?si=5QSFSvVoSy6ie-_IF_XYVw"> <img align="left" alt="Vitor's Spotify" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2111/2111624.svg" /> </a>
+<a href="mailto:vitor_m2@hotmail.com"> <img align="left" alt="My e-mail" width="22px" src="https://image.flaticon.com/icons/png/512/888/888853.png" /></a>
+<a href="https://open.spotify.com/user/12176646726?si=5QSFSvVoSy6ie-_IF_XYVw"> <img align="left" alt="Vitor's Spotify" width="22px" src="https://image.flaticon.com/icons/png/512/2111/2111624.png" /> </a>
 <a href="https://www.instagram.com/vitordemenighi/"> <img align="left" alt="Vitor's Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" /></a>
 </p>
  
